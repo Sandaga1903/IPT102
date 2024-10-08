@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\SANDAGA_IPT102\\SandagaSolution\\SandagaBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SandagaBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SandagaBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\SANDAGA_IPT102\\SandagaSolution\\SandagaBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "F:\\SANDAGA_IPT102\\SandagaSolution\\SandagaBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\SANDAGA_IPT102\\SandagaSolution\\SandagaBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\SANDAGA_IPT102\\SandagaSolution\\SandagaBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SandagaBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SandagaBlazor.props",
+      "PackagePath": "build\\SandagaBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SandagaBlazor.props",
+      "PackagePath": "buildMultiTargeting\\SandagaBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SandagaBlazor.props",
+      "PackagePath": "buildTransitive\\SandagaBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
