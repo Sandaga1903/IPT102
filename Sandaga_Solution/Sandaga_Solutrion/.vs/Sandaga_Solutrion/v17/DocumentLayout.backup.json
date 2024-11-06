@@ -1,114 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\",
+  "WorkspaceRootPath": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPT_LOCATION.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPT_LOCATION.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\images.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\images.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\interactive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\interactive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}|SandagaClass\\SandagaClass.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandagaclass\\model\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}|SandagaClass\\SandagaClass.csproj|solutionrelative:sandagaclass\\model\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\audios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\audios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}|SandagaClass\\SandagaClass.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandagaclass\\interface\\iflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}|SandagaClass\\SandagaClass.csproj|solutionrelative:sandagaclass\\interface\\iflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\videos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\videos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\data\\flowerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\data\\flowerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|d:\\sandaga new2\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}|SandagaClass\\SandagaClass.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandagaclass\\sandagaclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}|SandagaClass\\SandagaClass.csproj|solutionrelative:sandagaclass\\sandagaclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}|SandagaClass\\SandagaClass.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandagaclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}|SandagaClass\\SandagaClass.csproj|solutionrelative:sandagaclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\images.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\images.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\videos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\videos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPT_LOCATION.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPT_LOCATION.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPT_LOCATION.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPT_LOCATION.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6B4B2F09-F7F1-4497-B126-7887484F24FA}|Sandaga_Company\\Sandaga_Company.sqlproj|solutionrelative:Sandaga_Company\\Scripts\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|c:\\sandaga\\ipt102\\sandaga_solution\\sandaga_solutrion\\sandaga-web\\pages\\audios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}|Sandaga-web\\Sandaga-web.csproj|solutionrelative:sandaga-web\\pages\\audios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,39 +106,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Error.cshtml",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Error.cshtml",
-              "RelativeToolTip": "Sandaga-web\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Interactive.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Interactive.razor",
+              "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Interactive.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Interactive.razor",
+              "RelativeToolTip": "Sandaga-web\\Pages\\Interactive.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T07:10:55.275Z",
+              "WhenOpened": "2024-11-06T08:00:11.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlowerData.cs",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Data\\FlowerData.cs",
+              "RelativeDocumentMoniker": "Sandaga-web\\Data\\FlowerData.cs",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Data\\FlowerData.cs",
+              "RelativeToolTip": "Sandaga-web\\Data\\FlowerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:57:08.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\_Imports.razor",
+              "RelativeDocumentMoniker": "Sandaga-web\\_Imports.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\_Imports.razor",
+              "RelativeToolTip": "Sandaga-web\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T07:56:18.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\SandagaClass\\Model\\Flower.cs",
+              "RelativeDocumentMoniker": "SandagaClass\\Model\\Flower.cs",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\SandagaClass\\Model\\Flower.cs",
+              "RelativeToolTip": "SandagaClass\\Model\\Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:52:22.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EMPLOYEE_DELETE.sql ",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql",
+              "Title": "IFlower.cs",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\SandagaClass\\Interface\\IFlower.cs",
+              "RelativeDocumentMoniker": "SandagaClass\\Interface\\IFlower.cs",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\SandagaClass\\Interface\\IFlower.cs",
+              "RelativeToolTip": "SandagaClass\\Interface\\IFlower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:52:12.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SandagaClass.csproj",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\SandagaClass\\SandagaClass.csproj",
+              "RelativeDocumentMoniker": "SandagaClass\\SandagaClass.csproj",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\SandagaClass\\SandagaClass.csproj",
+              "RelativeToolTip": "SandagaClass\\SandagaClass.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T07:51:33.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\SandagaClass\\Class1.cs",
+              "RelativeDocumentMoniker": "SandagaClass\\Class1.cs",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\SandagaClass\\Class1.cs",
+              "RelativeToolTip": "SandagaClass\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:51:29.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Sandaga-web\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T07:10:55.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EMPLOYEE_DELETE.sql",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql",
               "RelativeDocumentMoniker": "Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql\r\n(localdb)\\ProjectModels.Sandaga_Company\r\n(ANGELICA\\Admin)",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_DELETE.sql\r\n(localdb)\\ProjectModels.Sandaga_Company\r\n(ANGELICA\\Admin)",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-11-06T07:10:41.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DEPT_LOCATION.sql ",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPT_LOCATION.sql",
+              "DocumentIndex": 17,
+              "Title": "DEPT_LOCATION.sql",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPT_LOCATION.sql",
               "RelativeDocumentMoniker": "Sandaga_Company\\Scripts\\DEPT_LOCATION.sql",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPT_LOCATION.sql",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPT_LOCATION.sql",
               "RelativeToolTip": "Sandaga_Company\\Scripts\\DEPT_LOCATION.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-11-06T07:01:52.077Z",
@@ -158,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EMPLOYEE.sql ",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\EMPLOYEE.sql",
+              "DocumentIndex": 11,
+              "Title": "EMPLOYEE.sql",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\EMPLOYEE.sql",
               "RelativeDocumentMoniker": "Sandaga_Company\\Scripts\\EMPLOYEE.sql",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\EMPLOYEE.sql",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\EMPLOYEE.sql",
               "RelativeToolTip": "Sandaga_Company\\Scripts\\EMPLOYEE.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-11-06T07:01:47.415Z",
@@ -170,33 +244,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EMPLOYEE_READ.sql ",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql",
+              "DocumentIndex": 15,
+              "Title": "EMPLOYEE_READ.sql",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql",
               "RelativeDocumentMoniker": "Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql\r\n(localdb)\\ProjectModels.Sandaga_Company\r\n(ANGELICA\\Admin)",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_READ.sql\r\n(localdb)\\ProjectModels.Sandaga_Company\r\n(ANGELICA\\Admin)",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-11-06T06:56:17.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EMPLOYEE_CREATE.sql ",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql",
+              "DocumentIndex": 19,
+              "Title": "EMPLOYEE_CREATE.sql",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql",
               "RelativeDocumentMoniker": "Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql\r\n(localdb)\\ProjectModels.Sandaga_Company\r\n(ANGELICA\\Admin)",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Stored Procedure\\EMPLOYEE_CREATE.sql\r\n(localdb)\\ProjectModels.Sandaga_Company\r\n(ANGELICA\\Admin)",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-11-06T06:56:15.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DEPENDENT.sql ",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPENDENT.sql",
+              "DocumentIndex": 20,
+              "Title": "DEPENDENT.sql",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPENDENT.sql",
               "RelativeDocumentMoniker": "Sandaga_Company\\Scripts\\DEPENDENT.sql",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPENDENT.sql",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPENDENT.sql",
               "RelativeToolTip": "Sandaga_Company\\Scripts\\DEPENDENT.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-11-06T06:55:01.577Z",
@@ -204,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DEPARTMENT.sql ",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPARTMENT.sql",
+              "DocumentIndex": 12,
+              "Title": "DEPARTMENT.sql",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPARTMENT.sql",
               "RelativeDocumentMoniker": "Sandaga_Company\\Scripts\\DEPARTMENT.sql",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPARTMENT.sql",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga_Company\\Scripts\\DEPARTMENT.sql",
               "RelativeToolTip": "Sandaga_Company\\Scripts\\DEPARTMENT.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-10-29T01:30:08.294Z",
@@ -216,120 +290,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "Audios.razor",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Audios.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Audios.razor",
               "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Audios.razor",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Audios.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Audios.razor",
               "RelativeToolTip": "Sandaga-web\\Pages\\Audios.razor",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T03:41:17.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T03:41:17.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "Videos.razor",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Videos.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Videos.razor",
               "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Videos.razor",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Videos.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Videos.razor",
               "RelativeToolTip": "Sandaga-web\\Pages\\Videos.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T03:40:55.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T03:40:55.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Images.razor",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Images.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Images.razor",
               "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Images.razor",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Images.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Images.razor",
               "RelativeToolTip": "Sandaga-web\\Pages\\Images.razor",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T03:40:34.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T03:40:34.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Sandaga-web\\Shared\\NavMenu.razor",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\NavMenu.razor",
               "RelativeToolTip": "Sandaga-web\\Shared\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-25T03:50:36.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Index.razor",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Index.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Index.razor",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Index.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Index.razor",
               "RelativeToolTip": "Sandaga-web\\Pages\\Index.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T04:03:05.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T04:03:05.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "Sandaga-web\\Shared\\MainLayout.razor",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\MainLayout.razor",
               "RelativeToolTip": "Sandaga-web\\Shared\\MainLayout.razor",
               "ViewState": "AgIAAFwAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T03:53:15.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Event.razor",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Event.razor",
-              "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Event.razor",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Event.razor",
-              "RelativeToolTip": "Sandaga-web\\Pages\\Event.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T03:42:09.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T03:53:15.655Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Calculator.razor",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Calculator.razor",
-              "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Calculator.razor",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Calculator.razor",
-              "RelativeToolTip": "Sandaga-web\\Pages\\Calculator.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "Event.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Event.razor",
+              "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Event.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Event.razor",
+              "RelativeToolTip": "Sandaga-web\\Pages\\Event.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T03:41:36.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T03:42:09.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
+              "Title": "Calculator.razor",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Calculator.razor",
+              "RelativeDocumentMoniker": "Sandaga-web\\Pages\\Calculator.razor",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Pages\\Calculator.razor",
+              "RelativeToolTip": "Sandaga-web\\Pages\\Calculator.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T03:41:36.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "Sandaga-web\\Shared\\NavMenu.razor.css",
-              "ToolTip": "D:\\SANDAGA NEW2\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Sandaga\\IPT102\\Sandaga_Solution\\Sandaga_Solutrion\\Sandaga-web\\Shared\\NavMenu.razor.css",
               "RelativeToolTip": "Sandaga-web\\Shared\\NavMenu.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-25T03:50:34.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T03:50:34.731Z"
             }
           ]
         }

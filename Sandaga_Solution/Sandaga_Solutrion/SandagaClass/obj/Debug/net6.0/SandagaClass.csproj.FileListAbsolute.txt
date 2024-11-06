@@ -1,0 +1,12 @@
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\bin\Debug\net6.0\SandagaClass.deps.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\bin\Debug\net6.0\SandagaClass.dll
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\bin\Debug\net6.0\SandagaClass.pdb
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\obj\Debug\net6.0\SandagaClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\obj\Debug\net6.0\SandagaClass.AssemblyInfoInputs.cache
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\obj\Debug\net6.0\SandagaClass.AssemblyInfo.cs
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\obj\Debug\net6.0\SandagaClass.csproj.CoreCompileInputs.cache
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\obj\Debug\net6.0\SandagaClass.sourcelink.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\obj\Debug\net6.0\SandagaClass.dll
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\obj\Debug\net6.0\refint\SandagaClass.dll
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\obj\Debug\net6.0\SandagaClass.pdb
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\SandagaClass\obj\Debug\net6.0\ref\SandagaClass.dll

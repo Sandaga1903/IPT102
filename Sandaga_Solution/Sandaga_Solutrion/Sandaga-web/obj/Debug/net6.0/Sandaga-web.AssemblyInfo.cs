@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sandaga-web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0f97c018e32f3a0e4eb04af86f34bf9a67cc7f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a04e38fc2c7260d36110c2c7b2801e964ef472a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sandaga-web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sandaga-web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Sandaga-web/1.0.0": {
+        "dependencies": {
+          "SandagaClass": "1.0.0"
+        },
         "runtime": {
           "Sandaga-web.dll": {}
+        }
+      },
+      "SandagaClass/1.0.0": {
+        "runtime": {
+          "SandagaClass.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Sandaga-web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SandagaClass/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

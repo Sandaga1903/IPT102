@@ -157,3 +157,39 @@ D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\
 D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.pdb
 D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.genruntimeconfig.cache
 D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\ref\Sandaga-web.dll
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.AssemblyInfoInputs.cache
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.AssemblyInfo.cs
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.csproj.CoreCompileInputs.cache
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.MvcApplicationPartsAssemblyInfo.cache
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.RazorAssemblyInfo.cache
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.RazorAssemblyInfo.cs
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.sourcelink.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.dll
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\refint\Sandaga-web.dll
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.pdb
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\appsettings.Development.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\appsettings.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\Sandaga-web.staticwebassets.runtime.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\Sandaga-web.exe
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\Sandaga-web.deps.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\Sandaga-web.runtimeconfig.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\Sandaga-web.dll
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\Sandaga-web.pdb
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\staticwebassets\msbuild.Sandaga-web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\staticwebassets\msbuild.build.Sandaga-web.props
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sandaga-web.props
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sandaga-web.props
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\scopedcss\bundle\Sandaga-web.styles.css
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\scopedcss\projectbundle\Sandaga-web.bundle.scp.css
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.genruntimeconfig.cache
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\ref\Sandaga-web.dll
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\SandagaClass.dll
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\bin\Debug\net6.0\SandagaClass.pdb
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-web.csproj.AssemblyReference.cache
+C:\Sandaga\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga-web\obj\Debug\net6.0\Sandaga-.753DC4AD.Up2Date

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Sandaga_Company", "Sandaga_Company\Sandaga_Company.sqlproj", "{6B4B2F09-F7F1-4497-B126-7887484F24FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandaga-web", "Sandaga-web\Sandaga-web.csproj", "{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sandaga-web", "Sandaga-web\Sandaga-web.csproj", "{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandagaClass", "SandagaClass\SandagaClass.csproj", "{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB1F6C41-06EA-4B9F-A827-D4DBADEC7912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D31A9AD-1E4F-4A00-B4D8-DBD4B306CD38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
