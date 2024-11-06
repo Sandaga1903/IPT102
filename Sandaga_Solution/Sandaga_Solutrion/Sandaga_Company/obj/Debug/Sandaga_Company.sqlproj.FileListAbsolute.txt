@@ -1,0 +1,20 @@
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\bin\Debug\Sandaga_Company.dacpac
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\Sandaga_Company.sqlproj.AssemblyReference.cache
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\Model.xml
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\refactor.xml
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\postdeploy.sql
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\predeploy.sql
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\Sandaga_Company.dll
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\Sandaga_Company.pdb
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\bin\Debug\Sandaga_Company.dll
+C:\Sandaga_Ipt\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\bin\Debug\Sandaga_Company.pdb
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\bin\Debug\Sandaga_Company.dacpac
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\bin\Debug\Sandaga_Company.dll
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\bin\Debug\Sandaga_Company.pdb
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\Sandaga_Company.sqlproj.AssemblyReference.cache
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\Model.xml
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\refactor.xml
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\postdeploy.sql
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\predeploy.sql
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\Sandaga_Company.dll
+D:\SANDAGA NEW2\IPT102\Sandaga_Solution\Sandaga_Solutrion\Sandaga_Company\obj\Debug\Sandaga_Company.pdb

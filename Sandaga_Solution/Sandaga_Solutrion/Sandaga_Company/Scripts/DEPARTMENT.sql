@@ -1,0 +1,61 @@
+﻿USE Sandaga_Company
+GO
+
+DROP TABLE IF EXISTS dbo.DEPARTMENT;
+GO
+
+CREATE TABLE [dbo].[DEPARTMENT]
+(
+   [Dname]          VARCHAR(15) NOT NULL,
+   [Dnumber]        INT         NOT NULL,
+   [Mgr_ssn]        CHAR(9)     NOT NULL,
+   [Mgr_start_date] DATE, 
+   CONSTRAINT [PK_DEPARTMENT_Dnumber] PRIMARY KEY (Dnumber),
+   CONSTRAINT [UX_DEPARTMENT_Dname] UNIQUE (Dname),
+
+);
+GO 
+
+CREATE NONCLUSTERED INDEX [IX_DEPARTMENT_Name] ON [dbo].[DEPARTMENT] ([Dname] ASC)
+
+INSERT INTO DEPARTMENT (Dname, Dnumber, Mgr_ssn, Mgr_start_date)
+Values
+(N'FAITH', 19, N'123456789', '2021-11-05'),
+(N'CRAYZE', 10, N'123456789', '2022-10-05'),
+(N'ZEL', 21, N'123456789', '2023-02-09');
+GO
+
+SELECT * FROM DEPARTMENT;
+GO
+
+UPDATE dbo.DEPARTMENT
+SET Dname = 'happy',
+	Mgr_ssn = '987654321',
+	Mgr_start_date = '2000-04-11'
+WHERE Dnumber = 11;
+GO
+
+SELECT * FROM DEPARTMENT;
+GO
+
+DELETE FROM dbo.DEPARTMENT
+WHERE Dname = 'DARL';
+GO
+
+SELECT * FROM DEPARTMENT;
+GO
+
+INSERT Department (Dname, Dnumber, Mgr_ssn, Mgr_start_date)
+VALUES 
+	('joy', 005, 005, '2000-08-01')
+GO
+
+SELECT * FROM DEPARTMENT;
+GO
+
+
+
+SELECT DEPARTMENT.*, [DEPENDENT].*
+FROM DEPARTMENT
+left join [DEPENDENT]
+ON DEPARTMENT.Dname = [DEPENDENT].[Essn]

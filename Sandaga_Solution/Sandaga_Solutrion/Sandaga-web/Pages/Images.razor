@@ -1,0 +1,39 @@
+﻿@page "/Images"
+
+<h3>Images</h3>
+
+<div class="image-container">
+    <img src="https://www.bagoys.com/assets/img/dictionary/tulip-intro.jpg" alt="Image 3" class="image" />
+    <img src="https://io.dropinblog.com/uploaded/blogs/34250657/files/cutflowersfresh4-1024x683.jpg" alt="Image 3" class="image" />
+    <img src="https://www.inbloomflorist.com/assets/img/dictionary/tulip-yellow.jpg" alt="Image 3" class="image" />
+    <img src="https://cdn.pixabay.com/photo/2021/04/19/23/05/tulips-6192643_960_720.jpg" alt="Image 3" class="image" />
+</div>
+
+<style>
+    /* Style the container */
+    .image-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 20px;
+        padding: 20px;
+        background-color: hotpink;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Style the images */
+    .image {
+        width: 100%;
+        height: auto;
+        border: 5px solid #fff;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    }
+
+        /* Add hover effect to the images */
+        .image:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+</style>

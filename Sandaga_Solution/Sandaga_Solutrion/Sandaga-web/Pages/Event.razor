@@ -1,0 +1,114 @@
+﻿@page "/Event"
+
+<h3>Flower Order Form</h3>
+
+<div class="order-container">
+    <EditForm Model="@flowerOrder" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-inline">
+            <div class="form-group">
+                <label for="fullName">Full Name:</label>
+                <InputText id="fullName" @bind-Value="flowerOrder.FullName" />
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <InputText id="email" @bind-Value="flowerOrder.Email" />
+            </div>
+            <div class="form-group">
+                <label for="flowerType">Flower Type:</label>
+                <InputText id="flowerType" @bind-Value="flowerOrder.FlowerType" />
+            </div>
+            <div class="form-group">
+                <label for="quantity">Quantity:</label>
+                <InputNumber id="quantity" @bind-Value="flowerOrder.Quantity" />
+            </div>
+        </div>
+
+        <button type="submit">Place Order</button>
+    </EditForm>
+
+    <h4>Order Summary</h4>
+    <ul>
+        @foreach (var order in flowerOrders)
+        {
+            <li>
+                @order.FullName - @order.Email - Flower: @order.FlowerType - Quantity: @order.Quantity
+            </li>
+        }
+    </ul>
+</div>
+
+@code {
+    private FlowerOrder flowerOrder = new FlowerOrder();
+    private List<FlowerOrder> flowerOrders = new List<FlowerOrder>();
+
+    private void HandleValidSubmit()
+    {
+        flowerOrders.Add(new FlowerOrder
+            {
+                FullName = flowerOrder.FullName,
+                Email = flowerOrder.Email,
+                FlowerType = flowerOrder.FlowerType,
+                Quantity = flowerOrder.Quantity
+            });
+
+        flowerOrder = new FlowerOrder(); // Reset the form
+    }
+
+    public class FlowerOrder
+    {
+        public string FullName { get; set; }
+        public string Email { get; set; }
+        public string FlowerType { get; set; }
+        public int Quantity { get; set; }
+    }
+}
+
+<style>
+    .order-container {
+        background-color: #fff0f5; /* You can change this to a background image if needed */
+        padding: 20px;
+        border-radius: 10px;
+        width: 50%; /* Set the width to control form size */
+        margin-right: auto; /* Align the form to the left */
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-inline {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .form-group {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+
+    label {
+        margin-bottom: 5px;
+    }
+
+    button {
+        margin-top: 15px;
+        padding: 10px 15px;
+        background-color: #FF69B4;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        button:hover {
+            background-color: #FF1493;
+        }
+
+    input, select {
+        padding: 8px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
+</style>
